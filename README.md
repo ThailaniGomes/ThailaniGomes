@@ -1,7 +1,7 @@
-#Oiê! Eu sou a Thailani Gomes
+<h3> Oiê! Eu sou a Thailani Gomes <h3>
 
 - 🌱 Estudando front-end
-- 😄 Pronouns:ela/dela
+- 😄 Pronomes:ela/dela
 
  <div>
   <a href="https://github.com/thailanigomes">
